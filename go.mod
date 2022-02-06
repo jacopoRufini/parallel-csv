@@ -1,4 +1,4 @@
-module parallel-csv
+module github.com/jacopoRufini/parallel-csv
 
 go 1.17
 
