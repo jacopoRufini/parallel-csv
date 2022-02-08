@@ -1,4 +1,4 @@
-package main
+package parallel_csv
 
 import (
 	"bufio"
